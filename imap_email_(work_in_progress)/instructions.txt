@@ -1,0 +1,1 @@
+Please note that this is unfinished, although you can still use it to view emails. It is built to work with gmail so you will have to edit it to enter your username and password at the top.

@@ -1,0 +1,1 @@
+Command-line chat application with multiple client and multiple room capabilities. Two servers are included here: One using Python's select library and the other using threading.

@@ -1,0 +1,32 @@
+Works very much like the linux ftp.
+
+Just type a command followed by the appropriate value:
+
+e.g > open ftp.mozilla.org
+
+
+
+Commands:
+
+open (value): Connects to ftp server
+
+ls: Lists directory contents
+
+pwd: Prints working directory
+
+cd: Change working directory
+
+bookmark (value): Bookmarks ftp server which connected to
+
+bookmarks: Shows bookmarks
+
+dirsize (value): Prints directory size
+
+mkdir (value): Creates directory called value
+
+download (value): Downloads file called value
+
+download -r (value): Recursively downloads directory called value
+
+quit: Quits ftp client
+
